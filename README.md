@@ -4,6 +4,6 @@ LeetCode Problem Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|53|[Maximum Subarray    ](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23234-%20Palindrome%20Linked%20List.js)|Easy|
-|121|[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./algorithm/cpp/matrixCellsInDistanceOrder/MatrixCellsInDistanceOrder.cpp)|Easy|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](./algorithm/cpp/twoCityScheduling/TwoCityScheduling.cpp)|Easy|
+|53|[Maximum Subarray    ](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%2355-%20Maximum%20Subarray.js)|Easy|
+|121|[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23121-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23234-%20Palindrome%20Linked%20List.js)|Easy|

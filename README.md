@@ -10,3 +10,4 @@ LeetCode Problem Solutions
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%2370-%20Climbing%20Stairs.js)|Easy|
 |136|[single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23136-%20Single%20Number.js)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%231-%20Two%20Sum.js)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23617-%20Merge%20Two%20Binary%20Trees.js)|Easy|

@@ -9,4 +9,4 @@ LeetCode Problem Solutions
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23234-%20Palindrome%20Linked%20List.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%2370-%20Climbing%20Stairs.js)|Easy|
 |136|[single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23136-%20Single%20Number.js)|Easy|
-|01|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%231-%20Two%20Sum.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%231-%20Two%20Sum.js)|Easy|

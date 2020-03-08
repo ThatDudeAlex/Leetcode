@@ -11,3 +11,5 @@ LeetCode Problem Solutions
 |136|[single Number](https://leetcode.com/problems/single-number/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23136-%20Single%20Number.js)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%231-%20Two%20Sum.js)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23617-%20Merge%20Two%20Binary%20Trees.js)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%2320-%20Valid%20Parentheses.js)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](https://github.com/ThatDudeAlex/Leetcode/blob/master/Algorithm/%23202-%20Happy%20Number.js)|Easy|
